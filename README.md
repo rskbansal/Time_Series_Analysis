@@ -14,9 +14,9 @@
 
 ## Methodology
 - Implement train-test-validation split:
-    - Training: Tune model parameters to optimize performance.
-    - Validation: Select the best-performing model based on validation set results.
-    - Testing: Evaluate model accuracy and compare against ARIMA baseline.
+    - **Training:** Tune model parameters to optimize performance.
+    - **Validation:** Select the best-performing model based on validation set results.
+    - **Testing:** Evaluate model accuracy and compare against ARIMA baseline.
   
 - Utilize window sliding method for input generation:
     - Sequentially slide fixed-width window along time series data.
